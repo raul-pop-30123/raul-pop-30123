@@ -4,25 +4,27 @@
 - 🎓 CS / Engineering Student
 - 💻 Passionate about Backend Development & Systems Architecture
 - 📧 Email: YOUR_EMAIL_HERE
-- 🔗 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](YOUR_LINKEDIN_URL_HERE)
-- 📸 Instagram: [@YOUR_INSTAGRAM_HANDLE](YOUR_INSTAGRAM_URL_HERE)
+- 🔗 LinkedIn: [Raul Pop](YOUR_LINKEDIN_URL_HERE)
+- 📸 Instagram: [@raul.pop05](YOUR_INSTAGRAM_URL_HERE)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Java, SQL
 - **Databases:** MySQL, Redis
-- **Frameworks & UI:** Swing
+- **Frameworks & GUI:** Swing
 - **Tools:** IntelliJ IDEA, DBeaver, Git
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
+<div align="center">
 
-#### 📦 Smart Inventory System
-A comprehensive inventory and crafting management system.
-- **Tech Stack:** Java, MySQL, Redis, Swing
-- Features user authentication, rate-limiting, and real-time resource tracking.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Smart Inventory System](https://github.com/raul-pop-30123/Smart-Inventory-System)** | Application with user authentication, device lockout mechanisms, and rate limiting. | `Java` `MySQL` `Redis` `Swing` |
+
+</div>
 
 ---
 
