@@ -24,5 +24,7 @@ I'm an Automation and Applied Informatics student passionate about bridging the 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaulPop04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/RaulPop04">
+    <img src="https://github-readme-stats.vercel.app/api?username=RaulPop04&show_icons=true&theme=radical&hide_border=true" alt="Raul's GitHub Stats" />
+  </a>
 </div>
