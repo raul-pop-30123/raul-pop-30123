@@ -21,6 +21,8 @@ I'm an Automation and Applied Informatics student passionate about bridging the 
 
 ---
 
-### 📫 Connect with me
+### 📬 Contact
 
-* GitHub: [@raul-pop-30123](https://github.com/raul-pop-30123)
+* **LinkedIn:** [[Adaugă linkul aici](https://www.linkedin.com/in/raul-pop-420280412/)]
+* **Gmail:** [Adaugă adresa sau linkul aici]
+* **Instagram:** [Adaugă linkul aici]
