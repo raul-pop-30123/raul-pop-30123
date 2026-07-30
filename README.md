@@ -25,4 +25,4 @@ I'm an Automation and Applied Informatics student passionate about bridging the 
 
 * **LinkedIn: [Raul Pop](https://www.linkedin.com/in/raul-pop-420280412/)**
 * Gmail: 2005.raul.pop.2005@gmail.com
-* **Instagram: [[raul.pop05](https://www.instagram.com/raul.pop05/)]**
+* **Instagram: [raul.pop05](https://www.instagram.com/raul.pop05/)**
