@@ -16,7 +16,7 @@ I'm an Automation and Applied Informatics student passionate about bridging the 
 
 * **[Smart Inventory System](https://github.com/raul-pop-30123/Smart-Inventory-system)**
   * A robust Java-based inventory management application featuring user session management, rate-limiting, device lockout security, and observer-based resource alarms. Integrated with MySQL and Redis.
-* **[Control Systems Visualization Tool](https://github.com/raul-pop-30123/Control-Systems-Visualizer)** *(In Progress)*
+* **[Control Systems Visualization Tool](https://github.com/raul-pop-30123/Control-Systems-Visualization-Tool)** *(In Progress)*
   * A C++ desktop application designed to simulate control system functionalities (such as Root Locus and Nyquist plots) with real-time UI manipulation for proportional gain.
 
 ---
