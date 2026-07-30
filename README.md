@@ -21,10 +21,6 @@ I'm an Automation and Applied Informatics student passionate about bridging the 
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect with me
 
-<div align="center">
-  <a href="https://github.com/raul-pop-30123">
-    <img src="https://github-readme-stats.vercel.app/api?username=raul-pop-30123&show_icons=true&theme=radical&hide_border=true" alt="Raul's GitHub Stats" />
-  </a>
-</div>
+* GitHub: [@raul-pop-30123](https://github.com/raul-pop-30123)
