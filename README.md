@@ -23,6 +23,6 @@ I'm an Automation and Applied Informatics student passionate about bridging the 
 
 ### 📬 Contact
 
-* **LinkedIn:** [[Adaugă linkul aici](https://www.linkedin.com/in/raul-pop-420280412/)]
-* **Gmail:** [Adaugă adresa sau linkul aici]
-* **Instagram:** [Adaugă linkul aici]
+* **[[LinkedIn](https://www.linkedin.com/in/raul-pop-420280412/)]**
+* **Gmail: 2005.raul.pop.2005@gmail.com **
+* **[[Instagram](https://www.instagram.com/raul.pop05/)]**
