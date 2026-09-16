@@ -12,14 +12,6 @@ Automation and Applied Informatics student at the Technical University of Cluj-N
 
 ---
 
-### 🎓 About me
-
-- 🎓 Studying **Automation and Applied Informatics** at **UTCN**
-- 🔧 Interested in the overlap between **control systems / hardware** and **software engineering**
-- 💻 Currently focused on backend systems, desktop applications, and system simulations
-
----
-
 ### 💻 Tech Stack & Tools
 
 **Languages**
@@ -27,7 +19,6 @@ Automation and Applied Informatics student at the Technical University of Cluj-N
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 
 **Databases & Caching**
 
@@ -55,7 +46,7 @@ A C++ desktop application simulating control-system behavior — Root Locus and 
 
 **[Microcontroller Firmware Distributor Database](https://github.com/raul-pop-30123/MicrocontrollerFirmDatabase)**
 A relational MySQL database modeling a microcontroller distributor's sales and inventory pipeline. Normalized to 3NF across 17 tables, with strict schema-level data integrity (CHECK constraints, triggers) and analytical reporting views.
-`MySQL` `SQL`
+`MySQL`
 
 ---
 
@@ -64,20 +55,3 @@ A relational MySQL database modeling a microcontroller distributor's sales and i
 **[Bob Năstrușnicul](https://github.com/raul-pop-30123/BobNastrusnicul)**
 A 2D top-down maze game built in Unity with C# — my first project in both. Every piece of art (character, environment, UI, all 9 collectible items) was hand-drawn by me in Inkscape, and it features a full working inventory system. Originally built as a high-school certification project. Playable Windows build available in Releases.
 `Unity` `C#` `Inkscape`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raul-pop-30123&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-pop-30123&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-### 📬 Get in touch
-
-- **LinkedIn:** [Raul Pop](https://www.linkedin.com/in/raul-pop-420280412/)
-- **Email:** [2005.raul.pop.2005@gmail.com](mailto:2005.raul.pop.2005@gmail.com)
-- **Instagram:** [raul.pop05](https://www.instagram.com/raul.pop05/)
