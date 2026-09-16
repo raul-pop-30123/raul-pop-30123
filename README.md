@@ -1,29 +1,83 @@
-### Hi there, I'm Raul! 👋
+<h1 align="center">Hi there, I'm Raul 👋</h1>
 
-I'm an Automation and Applied Informatics student passionate about bridging the gap between hardware/control systems and robust software engineering. I enjoy building efficient desktop applications, backend systems, and exploring system simulations.
+<p align="center">
+Automation and Applied Informatics student at the Technical University of Cluj-Napoca (UTCN), passionate about bridging the gap between hardware/control systems and robust software engineering. I enjoy building efficient desktop applications, backend systems, and exploring system simulations.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raul-pop-420280412/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:2005.raul.pop.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/raul.pop05/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+### 🎓 About me
+
+- 🎓 Studying **Automation and Applied Informatics** at **UTCN**
+- 🔧 Interested in the overlap between **control systems / hardware** and **software engineering**
+- 💻 Currently focused on backend systems, desktop applications, and system simulations
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-* **Languages:** Java, C, C++, SQL
-* **Databases & Caching:** MySQL, Redis
-* **Tools & Platforms:** Git, GitHub Desktop, Swing (Java UI), MATLAB-style simulation concepts
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+
+**Databases & Caching**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+*Also working with: Swing (Java UI), and MATLAB-style simulation concepts for control-system modeling.*
 
 ---
 
 ### 🚀 Featured Projects
 
-* **[Smart Inventory System](https://github.com/raul-pop-30123/Smart-Inventory-system)**
-  * A robust Java-based inventory management application featuring user session management, rate-limiting, device lockout security, and observer-based resource alarms. Integrated with MySQL and Redis.
-* **[Control Systems Visualization Tool](https://github.com/raul-pop-30123/Control-Systems-Visualization-Tool)**
-  * A C++ desktop application designed to simulate control system functionalities (such as Root Locus and Nyquist plots) with real-time UI manipulation for proportional gain.
-* **[MicrocontrollerFirm Database](https://github.com/raul-pop-30123/MicrocontrollerFirmDatabase)**
-  * A relational MySQL database modeling a microcontroller distributor sales and inventory pipeline. Normalized to 3NF across 17 tables, featuring strict schema-level data integrity (CHECK constraints, triggers) and analytical reporting views.
+**[Smart Inventory System](https://github.com/raul-pop-30123/Smart-Inventory-system)**
+A robust Java-based inventory management application featuring user session management, rate-limiting, device lockout security, and observer-based resource alarms. Integrated with MySQL and Redis.
+`Java` `MySQL` `Redis`
+
+**[Control Systems Visualization Tool](https://github.com/raul-pop-30123/Control-Systems-Visualization-Tool)**
+A C++ desktop application simulating control-system behavior — Root Locus and Nyquist plots — with real-time UI manipulation of proportional gain.
+`C++`
+
+**[Microcontroller Firmware Distributor Database](https://github.com/raul-pop-30123/MicrocontrollerFirmDatabase)**
+A relational MySQL database modeling a microcontroller distributor's sales and inventory pipeline. Normalized to 3NF across 17 tables, with strict schema-level data integrity (CHECK constraints, triggers) and analytical reporting views.
+`MySQL` `SQL`
+
 ---
 
-### 📬 Contact
+### 🎮 Also on my GitHub — a project just for fun
 
-* **LinkedIn: [Raul Pop](https://www.linkedin.com/in/raul-pop-420280412/)**
-* Gmail: 2005.raul.pop.2005@gmail.com
-* **Instagram: [raul.pop05](https://www.instagram.com/raul.pop05/)**
+**[Bob Năstrușnicul](https://github.com/raul-pop-30123/BobNastrusnicul)**
+A 2D top-down maze game built in Unity with C# — my first project in both. Every piece of art (character, environment, UI, all 9 collectible items) was hand-drawn by me in Inkscape, and it features a full working inventory system. Originally built as a high-school certification project. Playable Windows build available in Releases.
+`Unity` `C#` `Inkscape`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=raul-pop-30123&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul-pop-30123&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+### 📬 Get in touch
+
+- **LinkedIn:** [Raul Pop](https://www.linkedin.com/in/raul-pop-420280412/)
+- **Email:** [2005.raul.pop.2005@gmail.com](mailto:2005.raul.pop.2005@gmail.com)
+- **Instagram:** [raul.pop05](https://www.instagram.com/raul.pop05/)
