@@ -19,6 +19,13 @@ Automation and Applied Informatics student at the Technical University of Cluj-N
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Databases & Caching**
 
@@ -29,6 +36,7 @@ Automation and Applied Informatics student at the Technical University of Cluj-N
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 *Also working with: Swing (Java UI), and MATLAB-style simulation concepts for control-system modeling.*
 
@@ -43,6 +51,10 @@ A robust Java-based inventory management application featuring user session mana
 **[Control Systems Visualization Tool](https://github.com/raul-pop-30123/Control-Systems-Visualization-Tool)**
 A C++ desktop application simulating control-system behavior — Root Locus and Nyquist plots — with real-time UI manipulation of proportional gain.
 `C++`
+
+**[NoMoreQuiting](https://github.com/raul-pop-30123/NoMoreQuiting)**
+A full-stack workout-logging app — custom categories, live session logging (sets/reps/weight), notifications, and a Founder/admin role system with audit logging. .NET 8 (DDD-layered) backend with MySQL + Redis, React/TypeScript/Vite frontend, deployed via Docker Compose behind Caddy with automatic HTTPS.
+`C#` `.NET` `React` `TypeScript` `MySQL` `Redis` `Docker`
 
 **[Microcontroller Firmware Distributor Database](https://github.com/raul-pop-30123/MicrocontrollerFirmDatabase)**
 A relational MySQL database modeling a microcontroller distributor's sales and inventory pipeline. Normalized to 3NF across 17 tables, with strict schema-level data integrity (CHECK constraints, triggers) and analytical reporting views.
